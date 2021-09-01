@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project provides an editor which runs over a browser. It is built over ReactJS.
 
 ## Available Scripts
 
